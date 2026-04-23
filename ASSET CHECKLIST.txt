@@ -1,0 +1,29 @@
+TERRYHENDERSON.NET — ASSET CHECKLIST
+=====================================
+Place these files in the "assets" folder (already created next to index.html)
+
+FILE NAME                  WHICH PHOTO
+-----------                -----------
+terry-hero.jpg             Arms-crossed headshot (dark gray background) → HERO section
+terry-about.jpg            Smiling close-up headshot → ABOUT section
+th-logo-black.png          TH logo — black mark on WHITE background → NAV bar
+th-logo-white.png          TH logo — white mark on BLACK background → FOOTER
+compass-logo.png           Compass logo → Contact section + Footer
+
+ALSO UPDATE IN index.html:
+- Phone number: search "(321) 555-0000" and replace with your real number
+- Email: search "terry.henderson@compass.com" and replace if different
+- FL License #: search "add yours here" and replace with your license number
+- Testimonials: replace placeholder names/quotes with real client reviews
+- Compass search link: uncomment the button and add your Compass search URL
+
+FOLDER STRUCTURE (how it should look):
+Website - terryhenderson.net/
+├── index.html
+├── ASSET CHECKLIST.txt
+└── assets/
+    ├── terry-hero.jpg
+    ├── terry-about.jpg
+    ├── th-logo-black.png
+    ├── th-logo-white.png
+    └── compass-logo.png

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 100" fill="none">
+  <!-- Roof left arm (doubles as T crossbar angle) -->
+  <line x1="47" y1="20" x2="12" y2="47" stroke="#000" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- Roof right arm -->
+  <line x1="47" y1="20" x2="74" y2="38" stroke="#000" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- T crossbar (horizontal, at level where left roof arm lands) -->
+  <line x1="8"  y1="47" x2="43" y2="47" stroke="#000" stroke-width="6" stroke-linecap="square"/>
+  <!-- T stem -->
+  <line x1="23" y1="47" x2="23" y2="81" stroke="#000" stroke-width="6" stroke-linecap="square"/>
+  <!-- H left vertical -->
+  <line x1="48" y1="38" x2="48" y2="81" stroke="#000" stroke-width="6" stroke-linecap="square"/>
+  <!-- H right vertical -->
+  <line x1="74" y1="38" x2="74" y2="81" stroke="#000" stroke-width="6" stroke-linecap="square"/>
+  <!-- H crossbar -->
+  <line x1="48" y1="61" x2="74" y2="61" stroke="#000" stroke-width="6" stroke-linecap="square"/>
+</svg>
