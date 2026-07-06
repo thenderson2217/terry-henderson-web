@@ -1,3 +1,0 @@
-# Strategic Partnerships — Ideas & Backlog
-
-_Ideas to explore later._

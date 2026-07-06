@@ -1,0 +1,3 @@
+# Logos
+
+Assets folder — Logos.

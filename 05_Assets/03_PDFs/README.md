@@ -1,0 +1,3 @@
+# PDFs
+
+Assets folder — PDFs.

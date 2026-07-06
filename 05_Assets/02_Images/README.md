@@ -1,0 +1,3 @@
+# Images
+
+Assets folder — Images.
